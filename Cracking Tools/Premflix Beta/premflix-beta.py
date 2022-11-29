@@ -35,8 +35,8 @@ class menu:
 
 
 class checker():
-    url = '''aHR0cHM6Ly9sZWFrZWQud2lraS9zZWFyY2g/cT1uZXRmbGl4'''
-    url_2 = '''aHR0cHM6Ly9sZWFrZWQud2lraS8='''
+    url = # Removed
+    url_2 = # Removed
     list_urls = []
     def createFile():
         try:
